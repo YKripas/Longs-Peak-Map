@@ -58,3 +58,20 @@ body{
     color: yellow;
     
 }
+
+/*Description of the map #summary rules*/
+#summary{
+    float: left;
+    margin-left: 30px;
+    width: 600px;
+}
+#summary h1{
+    color: rgb(70,76,222);
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 5px;
+    margin: 20px;
+}
+#summary p{
+    margin: 10px;
+}
