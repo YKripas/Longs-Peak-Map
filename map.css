@@ -39,6 +39,22 @@ body{
     height: 750px;
     text-align: center;
     margin-top: 10px auto 200px auto;
+        }
+/*Vertical Navigation List RUles*/
+.vertical{
+    float: left;
+    width: 230px;
     
+}
+.vertical ul li{
+    list-style-type: none;
+    margin: 25px 20px 25px 20px;
+}
+.vertical a{
+    color: white;
+    text-decoration: none;
+}
+.vertical a:hover{
+    color: yellow;
     
 }
