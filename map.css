@@ -75,3 +75,16 @@ body{
 #summary p{
     margin: 10px;
 }
+
+/*Interactive map style rules*/
+#map{
+    position: relative;
+    background-color: white;
+    background-image: url(lpmap.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border: 1px solid black;
+    float: left;
+    margin-left: 30px;
+    width: 600px;
+    height: 294px;
